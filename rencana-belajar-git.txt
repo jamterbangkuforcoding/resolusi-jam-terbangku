@@ -1,3 +1,4 @@
 RENCANA BELAJAR GIT
 - Belajar membuat repositoy di local
 - Belajar membuat branch
+- Belajar menggunakan merge
